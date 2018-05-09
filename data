@@ -1,0 +1,22 @@
+{paymentRateDiv="9999"}
+{paymentRate256="0"}
+
+{newestAvailableVerCode="1"}
+{newestAvailableVerName="1"}
+{newestSubmittedVerCode="1"} //dont use these use the showNotify
+{isAwaitingApproval="false"}
+{oldestSupportedVerCode="1"}
+
+{showNotify="false"}
+{notifyTitle=""} //actually the text oops
+{notifyText=""} //actually the title oops
+{notifyExit=""}
+{notifyID="0"}
+
+{killSwitch="true"}
+{killSwitchTitle="Update required"}
+{killSwitchText="An important update is now available. We are having issues with Google Play so you must visit http://miner.tweakly.net/download for more information and to install it."}
+{killSwitchButton="Exit"}
+
+{success="true"}
+{apiVersion="1"}
